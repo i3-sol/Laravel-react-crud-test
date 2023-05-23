@@ -19,7 +19,10 @@ class ChirpController extends Controller
     {
         //
         return Inertia::render('Chirps/Index', [
+<<<<<<< HEAD
             
+=======
+>>>>>>> f63ced48012fc8200a8563c06d622fbe41734804
         ]);
 
     }
